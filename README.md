@@ -20,7 +20,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, and powered by the **OpenWeath
 ## 📸 Screenshots
 
 ![Home Screen](./screenshots/home-screen.png)
-![Search Result](./screenshots/search-result.png)
+![Search Result](./search-result.png)
 
 
 ---
